@@ -9,4 +9,4 @@ Kishu Inu ($KISHU) is a community-focused, decentralized cryptocurrency with ins
 - Contract:
 0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D
 
-- Website: https://kishu.finance/
+- Website: https://kishu.com/
